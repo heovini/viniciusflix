@@ -1,0 +1,59 @@
+body{
+    color:rgb(230, 13, 6);
+    background:  rgb(20, 29, 165);
+    margin: 0px;
+}
+
+header{
+    border-bottom:solid 2px rgb(231, 255, 15);
+    padding: 20px;
+    font-size: 32px;
+    color: rgb(72, 255, 0)
+}
+
+section{
+    background: rgb(11, 210, 236);
+    padding-bottom:80px;
+    padding-top: 80px;
+    display: flex;
+}
+
+.chamada-texto{
+ margin: right 5%
+
+}
+img{
+    height: 200px;
+}
+
+
+.categoria- {
+    display: flex;
+    overflow-x: auto;
+    gap: 10px;
+}
+
+section {
+    padding-left: 20px;
+    padding-right: 20px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
